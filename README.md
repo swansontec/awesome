@@ -173,6 +173,7 @@ Plugins which affect the final output of a bundle.
 - [license](https://github.com/mjeanroy/rollup-plugin-license) - Add Licensing to a bundle.
 - [live-reload](https://github.com/thgh/rollup-plugin-livereload) - Live reloading for a bundle.
 - [manifest-json](https://github.com/adamzerella/rollup-plugin-manifest-json) - Generate a `manifest.json` file for a PWA.
+- [mjs-entry](https://github.com/swansontec/rollup-plugin-mjs-entry) - Create [named exports](https://nodejs.org/dist/latest-v16.x/docs/api/packages.html#packages_approach_1_use_an_es_module_wrapper) for your CommonJS entry files. 
 - [output-manifest](https://github.com/shuizhongyueming/rollup-plugin-output-manifest) - Generating a chunk manifest.
 - [preserve-shebang](https://github.com/developit/rollup-plugin-preserve-shebang) - Preserves leading shebang in a build entry.
 - [prettier](https://github.com/mjeanroy/rollup-plugin-prettier) - Run prettier on a bundle.
